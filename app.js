@@ -5,8 +5,7 @@ var data = [
     {"quote":"2019-01167-R3", "status":"draft", "customer": "Merry Savings Bank", "quotetitle": "Inside Network", "agent": "Jordon, Denny"},
     {"quote":"2019-01207-R4", "status":"approved", "customer": "PDC Group", "quotetitle": "Managed Servers & Routers", "agent": "Jordon, Denny"},
     {"quote":"2019-01207-R5", "status":"approved", "customer": "PDC Group", "quotetitle": "Managed Servers & Routers", "agent": "Jordon, Denny"},
-    {"quote":"2019-01207-R6", "status":"approved", "customer": "PDC Group", "quotetitle": "Managed Servers & Routers", "agent": "Jordon, Denny"},
-    {quote: "dfgbhsdt", status: "lost", customer: "sthsd", quotetitle: "sdthbsd", agent: "aedrthbedtrh"}
+    {"quote":"2019-01207-R6", "status":"approved", "customer": "PDC Group", "quotetitle": "Managed Servers & Routers", "agent": "Jordon, Denny"}
 ];
 
 var columns = [
